@@ -1,7 +1,7 @@
 # E-commerce Back End 
 
 ## Purpose
-A command-line application that manages a company's employee database.
+A sample back end for an e-commerce site.
 
 ## Built With
 * Node.js
@@ -17,8 +17,7 @@ https://github.com/NangTuong/E-Commerce-Backend
 Made By: Bradley Nguyen
 
 ## Screen Shots
-![screenshot](./images/Screenshot%20(9).png)
-![screenshot](./images/Screenshot%20(10).png)
+![screenshot](./images/Screenshot%20(11).png)
+![screenshot](./images/Screenshot%20(12).png.png)
 
 ## Walkthrough video 
-https://drive.google.com/file/d/13kb_deDvNBd1V9Os5W4grgudXEiGUYQe/view
